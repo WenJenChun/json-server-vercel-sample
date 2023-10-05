@@ -2,10 +2,10 @@
     
   ],
   "posts": [
-    { "id": 1, "title": "json-server0915", "author": "typicode" }
+    { "id": 1, "title": "test json-server deploy to server", "author": "june" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    { "id": 1, "commentBody": "kinda difficult?", "postId": 1 }
+  ]
+ 
 }
